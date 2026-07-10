@@ -582,7 +582,37 @@ I may not always have the perfect words and perhaps this letter still does not f
 And maybe one day, if it is God's will, the prayer I have whispered so many times will become reality.
 Maybe one day I will be able to look at you and say that the missing rib is now flesh of my flesh bone of my bone and call you wife because I wanna spend forever with you.
 Until then, I will continue to pray, to hope and to thank God for every moment I get to spend with you.`
-      }
+      },
+      {
+        subtitle: "I am always here ",
+        title: "Even time when its looks like i am not",
+        text: `Hey sometime i dont know how to show you 
+Sometimes words are never enough 
+I wish i cold hold and remind you that in my arms all is real 
+When all does not make sense i wish God could show how to be there for 
+Now i can only Hope that my words will reach all the parts of your heart 
+And let you know that in everything you have your Father and the man who will always stand by your side 
+If my word can not reach i hope my arms can but i know should not hold or when i should hold or even if should 
+Cause in my actions i might be doing some thing wrong 
+I hope my heart will know how to hold 
+Coz in all things i just wanna say the Word of God to you
+Coz i have that will hold you and be there for you 
+I want you to know i am always here for you 
+Even in the times i dont how to be` 
+      },
+      {
+        subtitle: "I am sorry",
+        title: "I am sorry",
+        text: `Word we say carry weight, i have said words that are wrong
+I know sometimes i dont have the right words to say or how to act right and calm you heart
+I wanna protect you with words 
+I wanna shower you with the word of God
+I wanna cover you with the warm embrace of my heart
+Let my actions speak calm your soul and not cause wars 
+I want my actions to be your home
+I hope become a better man for you
+I  am sorry`
+      } 
     ];
 
     let currentIdx = 0;
