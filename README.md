@@ -528,6 +528,7 @@ I am here to correct that if God wills it`
       {
         subtitle: "Letter Four",
         title: "Deeper",
+        <img src="Hollyness4.JPEG" alt="Letter 4">
         text: `I try to capture you but words don't do you justice
 my language is surface but my love is deeper
 I have no GPS I'm trying to get my love lost in You
@@ -622,8 +623,13 @@ I  am sorry`
 I hear it when you speak at time i hear the voice of you daughter even when i know its you 
 When she pray before she sleeps i hear her mother speaking 
 You are woven into her so is her woven in to you.
+Two Threads, One Tapestry 
+Listening you sing with her i being see the love of mother 
+Listening to you pray with her i being see the love languege that is Jesus 
+You hiding chocolates from her i begin to see how you both love eating 
+I write to but now i feel that want juice 
 Two Threads, One Tapestry
-Your language is the same all because 
+Two Threads, One Tapestry
     ];
 
     let currentIdx = 0;
