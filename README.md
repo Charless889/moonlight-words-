@@ -585,7 +585,7 @@ Until then, I will continue to pray, to hope and to thank God for every moment I
       },
       {
         subtitle: "I am always here ",
-        title: "Even time when its looks like i am not",
+        title: "I Heart never wants to leave you",
         text: `Hey sometime i dont know how to show you 
 Sometimes words are never enough 
 I wish i cold hold and remind you that in my arms all is real 
@@ -604,6 +604,8 @@ Even in the times i dont how to be`
         subtitle: "I am sorry",
         title: "I am sorry",
         text: `Word we say carry weight, i have said words that are wrong
+I know time i am the cause of sorry I dont know how act right 
+I wanna be your peace 
 I know sometimes i dont have the right words to say or how to act right and calm you heart
 I wanna protect you with words 
 I wanna shower you with the word of God
@@ -612,7 +614,16 @@ Let my actions speak calm your soul and not cause wars
 I want my actions to be your home
 I hope become a better man for you
 I  am sorry`
-      } 
+      },
+      {
+        subtitle: "Hollyness and Ciana",
+        title: "Two Threads, One Tapestry",
+        text: `Two people but one person, Two Threads, One Tapestry
+I hear it when you speak at time i hear the voice of you daughter even when i know its you 
+When she pray before she sleeps i hear her mother speaking 
+You are woven into her so is her woven in to you.
+Two Threads, One Tapestry
+Your language is the same all because 
     ];
 
     let currentIdx = 0;
